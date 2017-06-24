@@ -1,1 +1,1 @@
-# celery
+# Celery demo
